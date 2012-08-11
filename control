@@ -1,0 +1,8 @@
+Package: com.rickye.noline
+Name: NoLine
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Simple tweak to hide download bar when downloading App Store apps
+Maintainer: Rickye
+Author: Rickye
+Section: Tweaks
